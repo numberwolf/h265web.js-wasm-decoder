@@ -1,0 +1,26 @@
+.DS_Store
+*.swp~
+*.swp
+
+#
+# Media
+#
+*.mp4
+*.hevc
+*.265
+*.h265
+*.aac
+*.pcm
+*.mp3
+#Node stuff
+node_modules
+bundle_player.js
+# Others
+VideoMissileServerDemo
+
+demo/dist
+demo/res
+aa
+res
+test.sh
+
