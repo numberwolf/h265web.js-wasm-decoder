@@ -30,7 +30,9 @@
 
 	- [H.265/HEVC 解码器使用](#h265解码器使用)
 
-- [3、其它帮助](#3其它帮助)
+- [3、其它](#3其它)
+
+	- [捐赠](#捐赠)
 	
 	- [FFmpeg转码H.265/HEVC编码的265测试文件](#ffmpeg转码h265编码的265测试文件)
 
@@ -298,7 +300,16 @@ token = "base64:QXV0aG9yOmNoYW5neWFubG9uZ3xudW1iZXJ3b2xmLEdpdGh1YjpodHRwczovL2dp
 
 <br>
 
-## 3、其它帮助 ##
+## 3、其它 ##
+
+### 捐赠 ###
+
+|  微信 | 支付宝 | PayPal |
+|  ---- | ----  | ---- |
+| <img src="assets/donate/wechat.JPG" height="500"> | <img src="assets/donate/alipay.JPG" height="500"> | TODO |
+
+<br>
+
 
 ### FFmpeg转码H265编码的265测试文件 ###
 
