@@ -316,7 +316,7 @@ token = "base64:QXV0aG9yOmNoYW5neWFubG9uZ3xudW1iZXJ3b2xmLEdpdGh1YjpodHRwczovL2dp
 * 用`ffmpeg`转码一个测试 `H.265/HEVC的` Demo文件
 
 	```shell
-	ffmpeg -i res/video40_265_moov.mp4 -vcodec copy -an -y video40_265_moov.hevc
+	ffmpeg -i input265.mp4 -vcodec libx265 -an -vtag hev1 -y video40_265_moov.h265
 	```
 
 
